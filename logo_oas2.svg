@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="176.21883mm"
+   height="233.29819mm"
+   viewBox="0 0 624.39741 826.64711"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_oas.svg"
+   inkscape:export-filename="/home/jorge/Desktop/logo_oas.png"
+   inkscape:export-xdpi="110.769"
+   inkscape:export-ydpi="110.769">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4455">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4457" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4459" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4455"
+       id="radialGradient4463"
+       cx="149.60921"
+       cy="373.48636"
+       fx="149.60921"
+       fy="373.48636"
+       r="312.1987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.04644251,1.9175315,-2.2690702,0.05497246,996.08203,-31.85693)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4455"
+       id="radialGradient4463-1"
+       cx="149.60921"
+       cy="373.48636"
+       fx="149.60921"
+       fy="373.48636"
+       r="312.1987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.04644251,1.9175315,-2.2690702,0.05497246,914.70926,-150.83818)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.37965812"
+     inkscape:cx="337.88603"
+     inkscape:cy="-15.682513"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1"
+     transform="translate(-81.372772,-206.59207)">
+    <circle
+       style="fill:#2882ec;fill-opacity:1;stroke:none;stroke-width:12.7454586;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3336"
+       cx="393.57147"
+       cy="518.79077"
+       r="312.1987" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.01209641px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.30735"
+       y="992.80719"
+       id="text4473"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96376791,1.0375942)"><tspan
+         sodipodi:role="line"
+         id="tspan4475"
+         x="110.30735"
+         y="992.80719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:306.74731445px;font-family:'Standard Symbols L';-inkscape-font-specification:'Standard Symbols L'">OAS</tspan></text>
+  </g>
+  <g
+     style="display:inline;opacity:1"
+     inkscape:label="Layer 2 copy"
+     id="g4161"
+     inkscape:groupmode="layer"
+     transform="translate(-81.372772,-206.59207)">
+    <circle
+       r="312.1987"
+       cy="518.79077"
+       cx="393.57147"
+       id="circle4163"
+       style="fill:url(#radialGradient4463);fill-opacity:1;stroke:none;stroke-width:12.7454586;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="display:inline;opacity:1;fill:url(#radialGradient4463-1);fill-opacity:1;stroke:none;stroke-width:12.7454586;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 388.20703,97.404297 C 353.32154,206.86597 317.58078,234.12265 289.35352,254.55859 c 75.18718,3.28549 133.25255,-37.45523 189.9082,-81.82226 -111.1681,204.35042 -213.83437,210.33281 -317.1875,232.33398 87.88004,50.2743 178.17059,23.4315 268.70117,-11.11133 -97.2569,110.45153 -212.52059,106.86391 -325.26953,119.19922 217.52351,31.85708 293.2967,-19.19753 371.73633,-68.6914 53.07779,-39.18213 94.53819,-88.04578 131.67773,-140.50977 A 312.1987,312.1987 0 0 0 388.20703,97.404297 Z M 623.30469,375.16016 c -27.49155,63.3374 -66.72988,98.73964 -108.6875,127.89648 -51.3311,35.67058 -199.13176,94.60035 -329.31055,104.04492 219.01092,14.40118 358.43559,-21.86241 420.12891,-101.28515 a 312.1987,312.1987 0 0 0 18.96093,-106.00782 312.1987,312.1987 0 0 0 -1.09179,-24.64843 z"
+       transform="translate(81.372772,118.98125)"
+       id="circle4163-0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
